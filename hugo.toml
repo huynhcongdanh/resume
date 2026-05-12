@@ -1,6 +1,6 @@
 baseURL = "https://huynhcongdanh.github.io/resume/"
 languageCode = "en-us"
-title = "danhuynh@resume:~$"
+title = "Danh-Huynh@resume:~$"
 theme = "terminal"
 
 [markup.highlight]
