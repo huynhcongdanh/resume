@@ -4,13 +4,46 @@ date: 2026-05-12
 type: "page"
 ---
 
-# >> INITIALIZING RESUME...
-# >> LOADING PROFESSIONAL_SUMMARY...
+# >> source INITIALIZING_RESUME.sh
+# >> whoami
+# DANH C HUYNH
+# >> cat profile.jpg
 ![Profile](profile.jpg)
-
+# >> sh generate_ascii_profile.sh
+```
+....................................................
+...................-+##########+-...................
+.................################++.................
+...............+###################+................
+...............#####++-----.----+###+...............
+...............###+-..............-##...............
+...............###--...............##...............
+...............+#+--...............++...............
+...............++-+++++#+...-+#++++-+...............
+..............-++++--++--++++-++--.++-.............-
+.............--+---......+.--.-....----............-
+..............---..-------..-------.---.............
+..............----.....---...--.....--..............
+................--...-...---........-..........---..
+.................--..---......+-...............-----
+.................---...-------....-...........------
+..................---............--...........------
+...................+---........--.-..........-------
+...................----+--------..--................
+..................------------....-....-------------
+.................------------.....-.........---...--
+..................----------.......................-
+.........-..........---------.......................
+....................................................
+--+-................................................
+--..................................................
++-..................................................
+-...................................................
+```
+# >> cat SUMMARY.txt
 Strategic and hands-on **Engineering Leader** with a proven track record of building and leading global **DevSecOps** teams of 20+ engineers. Expert in designing and managing globally distributed systems handling **1B+ calls per month** using AWS, GCP, & Alibaba Cloud. 
 
-## [0] CORE_COMPETENCIES
+## >> cat CORE_COMPETENCIES.json
 ```json
 {
   "Strategic Leadership & Organizational Growth": {
@@ -32,7 +65,7 @@ Strategic and hands-on **Engineering Leader** with a proven track record of buil
 }
 ```
 
-## [1] EXPERIENCE
+## >> cat EXPERIENCE.json
 ```json
 [
   {
@@ -93,7 +126,7 @@ Strategic and hands-on **Engineering Leader** with a proven track record of buil
 ]
 ```
 
-## [2] EDUCATION
+## >> cat EDUCATION.json
 ```json
 [
   { "degree": "M.S. in Information Technology", "school": "Virginia Tech" },
@@ -102,9 +135,10 @@ Strategic and hands-on **Engineering Leader** with a proven track record of buil
 ]
 ```
 
-## [3] CONTACT_INFO
+## >> cat CONTACT_INFO.json
 ```json
 {
+  "Name": "Danh C Huynh",
   "Location": "Raleigh-Durham, NC",
   "Phone": "919-274-7257",
   "Email": "danhuynh.info@gmail.com",
