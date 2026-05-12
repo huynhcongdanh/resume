@@ -6,6 +6,7 @@ type: "page"
 
 # >> INITIALIZING RESUME...
 # >> LOADING PROFESSIONAL_SUMMARY...
+![Profile](profile.jpg)
 
 Strategic and hands-on **Engineering Leader** with a proven track record of building and leading global **DevSecOps** teams of 20+ engineers. Expert in designing and managing globally distributed systems handling **1B+ calls per month** using AWS, GCP, & Alibaba Cloud. 
 

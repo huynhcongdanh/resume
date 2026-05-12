@@ -1,6 +1,6 @@
 baseURL = "https://huynhcongdanh.github.io/resume/"
 languageCode = "en-us"
-title = "Danh Huynh | Terminal"
+title = "danhuynh@resume:~$"
 theme = "terminal"
 
 [markup.highlight]
@@ -8,6 +8,10 @@ theme = "terminal"
 
 [markup.goldmark.renderer]
   unsafe = true
+
+[params.Logo]
+  logoText = "Danh-Huynh@resume:~$"
+  logoHomeLink = "https://huynhcongdanh.github.io/resume/"
 
 [params]
   # dir name of your main content (default is `content/posts`).
