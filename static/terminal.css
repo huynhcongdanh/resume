@@ -1,9 +1,8 @@
 :root {
-  --background: #474233;
-  --foreground: #ffffff;
-  --accent: #01d0df;
+  --background: #fff4f2;
+  --foreground: #424140;
+  --accent: #8f6a5e;
 }
-
 pre, pre code {
   white-space: pre-wrap;
   word-break: break-word;
