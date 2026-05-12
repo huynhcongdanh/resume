@@ -9,7 +9,9 @@ type: "page"
 # DANH C HUYNH
 # >> cat profile.jpg
 <img src="profile.jpg" alt="Profile" width="150" />
+
 # >> cat SUMMARY.txt
+
 Strategic and hands-on **Engineering Leader** with a proven track record of building and leading global **DevSecOps** teams of 20+ engineers. Expert in designing and managing globally distributed systems handling **1B+ calls per month** using AWS, GCP, & Alibaba Cloud. 
 
 ## >> cat CORE_COMPETENCIES.json
