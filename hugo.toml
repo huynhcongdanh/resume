@@ -1,3 +1,8 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My New Hugo Project'
+baseURL = "https://huynhcongdanh.github.io/resume/"
+languageCode = "en-us"
+title = "Danh Huynh | Terminal"
+theme = "terminal"
+
+[params]
+  # Important for the Terminal theme to show content on the front page
+  contentTypeName = "posts"

@@ -1,4 +1,3 @@
-![System Profile](/images/profile.jpg)
 ---
 title: "whoami"
 date: 2026-05-12
