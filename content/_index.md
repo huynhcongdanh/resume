@@ -12,7 +12,10 @@ type: "page"
 
 # >> cat SUMMARY.txt
 
-Strategic and hands-on **Engineering Leader** with a proven track record of building and leading global **DevSecOps** teams of 20+ engineers. Expert in designing and managing globally distributed systems handling **1B+ calls per month** using AWS, GCP, & Alibaba Cloud. 
+Strategic and hands-on **Engineering Leader** with a proven track record of building and leading global **DevSecOps** teams of 20+ engineers in highly regulated environments, including Fintech and Medical.
+Experienced in designing & managing globally distributed systems handling **1B+ calls** per month using **AWS, GCP, & Alibaba Cloud**. 
+Specialized in **Everything as Code**, driving **AI adoption** to improve engineering efficiency.
+
 
 ## >> cat CORE_COMPETENCIES.json
 ```json
