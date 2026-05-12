@@ -7,7 +7,7 @@ type: "page"
 # >> source INITIALIZING_RESUME.sh
 # >> whoami
 # DANH C HUYNH
-# >> cat profile.jpg
+# >> open profile.jpg
 <img src="profile.jpg" alt="Profile" width="150" />
 
 # >> cat SUMMARY.txt
