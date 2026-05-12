@@ -12,11 +12,22 @@ Strategic and hands-on **Engineering Leader** with a proven track record of buil
 ## [0] CORE_COMPETENCIES
 ```json
 {
-  "Leadership": "Strategic Roadmap Development, Global Team Engineering (20+), Platform Engineering (DX), AI Strategy & Adoption, Cloud FinOps",
-  "Cloud & Infrastructure": "AWS, GCP, Aliyun (Alibaba Cloud), Multi-Cloud Resilience, On-Prem to Cloud Migration",
-  "Tools & Automation": "Terraform, Terragrunt, Ansible, GitLabs, Jenkins, Fastlane (Mobile CI/CD)",
-  "Security & Compliance": "SOC2 Compliance, DevSecOps Culture, Identity Management (IAM), AquaSec, Lacework, Mend",
-  "Operations": "SRE Maturity, SLAs/SLOs, 24/7/365 On-call Management, Database Administration"
+  "Strategic Leadership & Organizational Growth": {
+    "Global Team Engineering": "Proven ability to build, scale, and lead multi-national DevSecOps and SRE organizations of 20+ engineers.",
+    "Strategic Roadmap Development": "Defining long-term technical visions that align engineering capabilities with core business objectives.",
+    "Strategic Platform Engineering": "Spearheaded frameworks that standardize DevSecOps best practices into reusable, secure-by-default templates to the Developer Experience (DX) by reducing operational friction and empowering teams to accelerate deployment cycles without compromising quality.",
+    "Data Driven": "Used data & metrics to assist both management & technical decisions.",
+    "AI Strategy & Adoption": "Leading the integration of AI solutions to streamline DevSecOps workflows and improve engineering efficiency.",
+    "Cloud FinOps & Governance": "Orchestrating cloud cost optimization strategies and managing multi-million dollar budgets and vendor relationships.",
+    "Mentorship & Culture": "Cultivating a \"You Build It, You Own It\" philosophy and fostering growth mindsets through technical coaching and office hours."
+  },
+  "Technical Architecture & Strategy": {
+    "Global Systems Design": "Architecting globally distributed, high-concurrency platforms capable of handling over 1+ billions transactions monthly.",
+    "Everything as Code": "Standardizing Infrastructure as Code (IaC) and Configuration as Code (CaC) to ensure reproducible and scalable environments. No pets in the system.",
+    "Multi-Regions Resilience": "Designing and executing complex migration, cloud networking, and disaster recovery strategies across AWS Accounts, regions, & AZs.",
+    "DevSecOps & Compliance": "Embedding security into the SDLC (SAST/DAST) and maintaining rigorous standards for SOC2 and regulated environments (Medical, Fintech).",
+    "Site Reliability Engineering (SRE)": "Establishing operational excellence through the definition and management of SLAs, SLOs, and 24/7/365 incident response frameworks."
+  }
 }
 ```
 
