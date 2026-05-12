@@ -121,7 +121,6 @@ Specialized in **Everything as Code**, driving **AI adoption** to improve engine
 {
   "Name": "Danh C Huynh",
   "Location": "Raleigh-Durham, NC",
-  "Phone": "919-274-7257",
   "Email": "danhuynh.info@gmail.com",
   "LinkedIn": "https://linkedin.com/in/danhconghuynh"
 }
