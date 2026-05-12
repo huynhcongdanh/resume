@@ -4,5 +4,14 @@ title = "Danh Huynh | Terminal"
 theme = "terminal"
 
 [params]
-  # Important for the Terminal theme to show content on the front page
+  # The text that appears at the top of the "terminal"
   contentTypeName = "posts"
+  placeholderPrompt = "guest@danhuynh.info:~$"
+  
+  # Choose your 'phosphor' color: green, blue, red, orange, pink
+  themeColor = "green"
+
+  [params.terminal]
+    showTerminal = true
+    userName = "danh"
+    terminalPrompt = "λ"
