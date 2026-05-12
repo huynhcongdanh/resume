@@ -45,8 +45,15 @@ Strategic and hands-on **Engineering Leader** with a proven track record of buil
     "period": "2023 – Present",
     "highlights": {
       "Technical & Strategic Leadership": "Oversee platform infrastructure, tooling, and developer experience for a global organization",
-      "Cloud Migration": "Led 100% migration from On-Prem to AWS with secure-by-default architecture",
-      "AI Integration": "Directing AI adoption to streamline workflows and improve engineering efficiency"
+      "Cloud Migration": "Led 100% migration (workload & networking) from On-Prem to AWS with secure-by-default architecture",
+      "AI Integration": "Directing AI adoption to streamline workflows and improve engineering efficiency",
+      "Cloud FinOps & Governance": "Orchestrating cloud cost optimization strategies and managing multi-million dollar budgets and vendor relationships",
+      "Team Building": "Built and scaled global DevSecOps teams across multiple continents",
+      "Security & Compliance": "Established and maintained SOC2 / PCI-DSS compliances and security best practices across all environments",
+      "Observability": "Implemented comprehensive monitoring and observability solutions to ensure system reliability and performance",
+      "Incident Response": "Established and managed 24/7/365 incident response frameworks and SLO/SLA management",
+      "Disaster Recovery": "Designed and executed comprehensive disaster recovery strategies to ensure business continuity",
+      "Vendor Management": "Managed relationships with cloud providers and security vendors to optimize costs and performance"
     }
   },
   {
