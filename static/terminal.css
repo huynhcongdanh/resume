@@ -1,7 +1,7 @@
 :root {
   --background: #fff4f2;
-  --foreground: #424140;
-  --accent: #8f6a5e;
+  --foreground: #000000;
+  --accent: #f45725;
 }
 pre, pre code {
   white-space: pre-wrap;
