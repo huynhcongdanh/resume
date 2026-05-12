@@ -4,20 +4,20 @@ date: 2026-05-12
 type: "page"
 ---
 
-# >> source INITIALIZING_RESUME.sh
-# >> whoami
+# ~$ source INITIALIZING_RESUME.sh
+# ~$ whoami
 # DANH C HUYNH
-# >> open profile.jpg
+# ~$ open profile.jpg
 <img src="profile.jpg" alt="Profile" width="150" />
 
-# >> cat SUMMARY.txt
+# ~$ cat SUMMARY.txt
 
 Strategic and hands-on **Engineering Leader** with a proven track record of building and leading global **DevSecOps** teams of 20+ engineers in highly regulated environments, including Fintech and Medical.
 Experienced in designing & managing globally distributed systems handling **1B+ calls** per month using **AWS, GCP, & Alibaba Cloud**. 
 Specialized in **Everything as Code**, driving **AI adoption** to improve engineering efficiency.
 
 
-## >> cat CORE_COMPETENCIES.json
+## ~$ cat CORE_COMPETENCIES.json
 ```json
 {
   "Strategic Leadership & Organizational Growth": {
@@ -39,7 +39,7 @@ Specialized in **Everything as Code**, driving **AI adoption** to improve engine
 }
 ```
 
-## >> cat EXPERIENCE.json
+## ~$ cat EXPERIENCE.json
 ```json
 [
   {
@@ -107,7 +107,7 @@ Specialized in **Everything as Code**, driving **AI adoption** to improve engine
 ]
 ```
 
-## >> cat EDUCATION.json
+## ~$ cat EDUCATION.json
 ```json
 [
   { "degree": "M.S. in Information Technology", "school": "Virginia Tech" },
@@ -116,7 +116,7 @@ Specialized in **Everything as Code**, driving **AI adoption** to improve engine
 ]
 ```
 
-## >> cat CONTACT_INFO.json
+## ~$ cat CONTACT_INFO.json
 ```json
 {
   "Name": "Danh C Huynh",
